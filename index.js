@@ -1,4 +1,7 @@
 const TicTacToe = require('./src/tic-tac-toe.js');
+// const resetBtn = document.querySelector('#resetBtn');
+// const gameCanvas = document.querySelector('#gameCanvas');
+
 
 window.game = new TicTacToe();
 
